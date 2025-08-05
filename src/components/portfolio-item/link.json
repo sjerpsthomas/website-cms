@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_portfolio_item_links",
+  "info": {
+    "displayName": "link",
+    "icon": "code"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

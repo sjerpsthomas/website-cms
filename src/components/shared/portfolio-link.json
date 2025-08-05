@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_portfolio_links",
+  "info": {
+    "displayName": "Portfolio Link",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
